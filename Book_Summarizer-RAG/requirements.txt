@@ -1,0 +1,10 @@
+groq
+langchain
+faiss-cpu
+python-dotenv
+pypdfium2
+tqdm
+sentence-transformers
+fpdf
+pytesseract
+Pillow
